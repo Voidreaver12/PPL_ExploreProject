@@ -1,4 +1,6 @@
 
+// Noah Deibert
+
 extern "C" {
     #include "include/lua.h"
     #include "include/lauxlib.h"

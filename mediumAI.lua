@@ -1,3 +1,5 @@
+-- Noah Deibert
+
 -- Get game board as a string
 board = getBoard()
 
