@@ -1,3 +1,5 @@
+-- Han Nguyen
+
 io.write "Enter your weight in kg: "
 weight = io.read()
 io.write "Enter your height in meters: "

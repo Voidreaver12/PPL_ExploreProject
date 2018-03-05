@@ -16,3 +16,14 @@ program. This version of Tic Tac Toe allows you to create your own AI that can g
 as a string and do its own calculations and methods, finally returning to C++ with a position on 
 the game board to move. When creating your own AI, you should be sure to make the AI properly, as 
 a bad AI may continuously choose an invalid option, creating an infinite loop.
+
+BMI Calculadora in Lua
+by Han Nguyen
+CSCI400
+3/4/2018
+
+To compile: Nothing, just install Lua.
+To run: Run in terminal with Lua. ex: "lua BMICalculadora.lua"
+
+This program explores some of the basics of programming with simple standard input and output, 
+along with some math calculations and some if/then/else statements.
